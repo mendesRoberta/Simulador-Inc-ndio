@@ -122,7 +122,7 @@ def desenhar_rosa_dos_ventos(tela, vento_dir, vento_forca):
     raio_maior = 35
     raio_interno = 5
     cor_clara = (200, 200, 200)
-    cor_escura = (80, 80, 80)
+    cor_escura = (0, 0, 0)
     cor_destaque = (255, 215, 0)
 
     def desenhar_ponta(cor1, cor2, ponta, lado1, lado2, centro):
